@@ -8,8 +8,17 @@ The goal of CareerStart is to simplify the job search process for first-time job
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Authentication: JSON Web Token (JWT)  
-- Tools: Git, GitHub, VS Code  
+* Frontend: HTML, CSS, JavaScript
+* Backend: Java (JSP/Servlets)
+* Database: MySQL
+* Server: Apache Tomcat
+* Tools: XAMPP, Git, GitHub, VS Code
+
+## Key Features
+
+* User Registration and Authentication
+* Job Search and Application Management
+* Recruiter Job Posting System
+* Candidate Profile Management
+* MySQL Database Integration
+* Responsive User Interface
